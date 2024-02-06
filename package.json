@@ -2,6 +2,7 @@
   "name": "sf_njs_arrays",
   "version": "1.0.0",
   "description": "Array functions",
+  "repository": "https://github.com/MakarovS96/sf_njs_arrays_module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
