@@ -1,6 +1,6 @@
 {
   "name": "sf_njs_arrays",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Array functions",
   "repository": "https://github.com/MakarovS96/sf_njs_arrays_module",
   "main": "index.js",
